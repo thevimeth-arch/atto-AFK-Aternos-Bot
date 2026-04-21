@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false
     },
     "chat-messages": {
@@ -31,8 +31,6 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
@@ -53,7 +51,7 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": false,
+      "enabled": true,
       "interval": 10000
     }
   },
@@ -65,7 +63,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": false,
+    "attack-mobs": true,
     "auto-eat": false
   },
   "beds": {
